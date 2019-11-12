@@ -20,13 +20,13 @@ div#tswsidecol {
 	float: right ;
 	width: 20% ;
 	color: #000 ;
-	background-color: #FCEEFF;
+	background-color: blue;
 }
 div#tswcontent {
 	float: right ;
 	width: 80% ;
 	color: #000 ;
-	background-color:  #E9CCF0;
+	background-color:  green;
 }
 @media only screen and (max-width: 629px) {
 	div#tswsidecol {
