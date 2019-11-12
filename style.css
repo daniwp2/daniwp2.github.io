@@ -42,3 +42,11 @@ div#tswcontproper {
 	padding-left: 5px ;
 	padding-right: 5px ;
 }
+div#tswcontainer {
+	color: inherit ;
+	background-color: #FCEEFF ;
+}
+div#tswsideproper, div#tswothersideproper {
+	padding-left: 5px ;
+	padding-right: 5px ;
+}
